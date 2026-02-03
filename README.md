@@ -57,5 +57,5 @@ Contributions are welcome! Follow these steps:
 This project is licensed under the MIT License.
 
 ---
-**Author:** Rohan Sharma  
-**GitHub Repository:** [Patient Information System](https://github.com/rohan0642/Patient-information-system)
+**Author:** aditya kumar 
+**GitHub Repository:** [Patient Information System](https://github.com/git-aditya-1/Patient-Information-System/edit/main/README.md)
